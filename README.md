@@ -15,7 +15,6 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-</div><br/>
 
 <a href="https://github.com/ProjetoAuroraBoreal/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ProjetoAuroraBoreal" />
@@ -47,6 +46,9 @@
   env:
     # a github token is required to fetch the contribution calendar from github API
     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+</div><br/>
+
+
 <!--
 **ProjetoAuroraBoreal/ProjetoAuroraBoreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
