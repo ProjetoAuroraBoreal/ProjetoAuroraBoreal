@@ -1,5 +1,5 @@
 ### Olá sou Vanessa Avila!
-- 🤔 Estundando Analise de Teste de Software 
+- 🤔 Estundante de Analise de Teste de Software 
 - 😄 Pronouns: ela/dela
 
 
