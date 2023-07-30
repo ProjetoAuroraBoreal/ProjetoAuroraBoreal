@@ -23,6 +23,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ProjetoAuroraBoreal&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+
+</div>
+
+<div>
  - uses: Platane/snk@v3
   with:
     # github user name to read the contribution graph from (**required**)
@@ -46,7 +50,9 @@
   env:
     # a github token is required to fetch the contribution calendar from github API
     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-</div><br/>
+<\div>
+
+<br/>
 
 
 <!--
