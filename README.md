@@ -1,8 +1,6 @@
-### Olá sou Vanessa Avila!
+## Olá! Eu sou Vanessa Avila 🖐️
 - 🤔 Estundante de Analise de Teste de Software 
 - 😄 Pronouns: ela/dela
-
-## Olá! Eu sou o Matheus Fraga 🖐️
 
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
