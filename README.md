@@ -1,4 +1,5 @@
 ## Olá! Eu sou Vanessa Avila 🖐️
+![Snake animation](https://github.com/ProjetoAuroraBoreal/ProjetoAuroraBoreal/blob/output/github-contribution-grid-snake.svg)
 - 🤔 Estundante de Analise de Teste de Software 
 - 😄 Pronouns: ela/dela
 
@@ -23,7 +24,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ProjetoAuroraBoreal&layout=compact&langs_count=8&card_width=320" />
 </a>
 <div>
-![Snake animation](https://github.com/ProjetoAuroraBoreal/ProjetoAuroraBoreal/blob/output/github-contribution-grid-snake.svg)
+
  <div>
 <br/>
 
