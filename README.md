@@ -22,7 +22,7 @@
 <a href="https://github.com/ProjetoAuroraBoreal/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ProjetoAuroraBoreal&layout=compact&langs_count=8&card_width=320" />
 </a>
- 
+ ![snake gif](https://github.com/Formandodev/ProjetoAuroraBoreal/blob/output/github-contribution-grid-snake.svg)
 </div>
  
 <br/>
